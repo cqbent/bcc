@@ -1,0 +1,7 @@
+Nodeaccess 6.x-1.x
+===================
+
+Nodeaccess 6.x-1.4
+===================
+A number of bug fixes, including:
+Issue [#306541] by gianfrasoft: Strange behavior anonymous content management.
